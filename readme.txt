@@ -8,3 +8,8 @@
     }
 
 ## restart Docker service 
+# sudo systemctl restart docker
+
+# TODO 
+# data persistancy 
+
